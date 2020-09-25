@@ -1,0 +1,49 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "componentes-bs",
+    "title": "1. Objetivos de desarrollo sostenible y políticas públicas de la ciencia, la tecnología y la innovación (CTeI)",
+    "breadcrumb": ["Inicio","1. Objetivos de desarrollo sostenible y políticas públicas de la ciencia, la tecnología y la innovación (CTeI)"],
+    "path": "pages/tema_1.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "componentes-bs",
+        "title": "1.1 Características, funciones, relación entre los actores de las políticas públicas",
+        "anchor": "tema1_1"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "componentes-bs",
+        "title": "1.2 Políticas a nivel nacional y regional",
+        "anchor": "tema1_2"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "componentes-bs",
+        "title": "1.3 Conceptos básicos sobre los objetivos de desarrollo sostenible",
+        "anchor": "tema1_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "componentes-bs",
+        "title": "1.4 Desarrollo social, ambiental y económico en el nicho",
+        "anchor": "tema1_4"
+      },     
+      {
+        "icon": "fa fa-file-text",
+        "slug": "componentes-bs",
+        "title": "1.5 Innovación transformativa",
+        "anchor": "tema1_5"
+      }   
+    ]   
+  }
+  
+]
