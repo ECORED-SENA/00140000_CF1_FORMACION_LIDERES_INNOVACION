@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1110.164" height="577.375" viewBox="0 0 1110.164 577.375">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1110.164" height="859.984" viewBox="0 0 1110.164 859.984">
   <defs>
     <filter id="Rectángulo_9" x="0" y="287.871" width="277.207" height="289.505" filterUnits="userSpaceOnUse">
       <feOffset dx="7" dy="7" input="SourceAlpha"/>
@@ -26,6 +26,13 @@
       <feGaussianBlur stdDeviation="2.5" result="blur-4"/>
       <feFlood flood-color="#999" flood-opacity="0.451"/>
       <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_13" x="1.198" y="670.606" width="277.207" height="189.378" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-5"/>
+      <feFlood flood-color="#999" flood-opacity="0.451"/>
+      <feComposite operator="in" in2="blur-5"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <clipPath id="clip-path">
@@ -83,33 +90,28 @@
       <path id="Trazado_535" data-name="Trazado 535" d="M760.085,8143.966l9.211.128a.434.434,0,0,1,.372.221l2.024,3.6-.755.425-1.9-3.38-8.962-.125Z" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Grupo_634" data-name="Grupo 634" transform="translate(-168.125 -8101.976)">
-    <g id="Grupo_433" data-name="Grupo 433" transform="translate(-6)">
-      <circle id="Elipse_53" data-name="Elipse 53" cx="7.882" cy="7.882" r="7.882" transform="translate(499.701 8191.331)" fill="#db9600"/>
-      <path id="Trazado_430" data-name="Trazado 430" d="M507.582,8208.1a8.888,8.888,0,1,1,8.888-8.888A8.9,8.9,0,0,1,507.582,8208.1Zm0-15.763a6.875,6.875,0,1,0,6.876,6.875A6.883,6.883,0,0,0,507.582,8192.337Z" fill="#414651"/>
-    </g>
-    <g id="Grupo_611" data-name="Grupo 611" transform="translate(-6)">
-      <circle id="Elipse_57" data-name="Elipse 57" cx="7.882" cy="7.882" r="7.882" transform="translate(941.388 8191.331)" fill="#db9600"/>
-      <path id="Trazado_553" data-name="Trazado 553" d="M949.27,8208.1a8.888,8.888,0,1,1,8.888-8.888A8.9,8.9,0,0,1,949.27,8208.1Zm0-15.763a6.875,6.875,0,1,0,6.875,6.875A6.884,6.884,0,0,0,949.27,8192.337Z" fill="#414651"/>
-    </g>
-    <g transform="matrix(1, 0, 0, 1, 168.13, 8101.98)" filter="url(#Rectángulo_9)">
+  <g id="Grupo_622" data-name="Grupo 622" transform="translate(-174.125 -8101.976)">
+    <g transform="matrix(1, 0, 0, 1, 174.13, 8101.98)" filter="url(#Rectángulo_9)">
       <rect id="Rectángulo_9-2" data-name="Rectángulo 9" width="260.207" height="272.505" rx="12" transform="translate(1.5 289.37)" fill="#f4e7ce" stroke="#b2b2b2" stroke-miterlimit="10" stroke-width="2"/>
     </g>
-    <g transform="matrix(1, 0, 0, 1, 168.13, 8101.98)" filter="url(#Rectángulo_10)">
+    <g transform="matrix(1, 0, 0, 1, 174.13, 8101.98)" filter="url(#Rectángulo_10)">
       <rect id="Rectángulo_10-2" data-name="Rectángulo 10" width="260.207" height="272.505" rx="12" transform="translate(279.15 289.37)" fill="#f4e7ce" stroke="#b2b2b2" stroke-miterlimit="10" stroke-width="2"/>
     </g>
-    <g transform="matrix(1, 0, 0, 1, 168.13, 8101.98)" filter="url(#Rectángulo_11)">
+    <g transform="matrix(1, 0, 0, 1, 174.13, 8101.98)" filter="url(#Rectángulo_11)">
       <rect id="Rectángulo_11-2" data-name="Rectángulo 11" width="260.207" height="272.505" rx="12" transform="translate(556.8 289.37)" fill="#f4e7ce" stroke="#b2b2b2" stroke-miterlimit="10" stroke-width="2"/>
     </g>
-    <g transform="matrix(1, 0, 0, 1, 168.13, 8101.98)" filter="url(#Rectángulo_12)">
+    <g transform="matrix(1, 0, 0, 1, 174.13, 8101.98)" filter="url(#Rectángulo_12)">
       <rect id="Rectángulo_12-2" data-name="Rectángulo 12" width="260.207" height="272.505" rx="12" transform="translate(834.46 289.37)" fill="#f4e7ce" stroke="#b2b2b2" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 174.13, 8101.98)" filter="url(#Rectángulo_13)">
+      <rect id="Rectángulo_13-2" data-name="Rectángulo 13" width="260.207" height="172.378" rx="12" transform="translate(2.7 672.11)" fill="#f4e7ce" stroke="#b2b2b2" stroke-miterlimit="10" stroke-width="2"/>
     </g>
     <text id="Como_pequeñas_redes_de_actores_que_apoyan_las_novedades_sobre_la_base_de_expectativas_y_visiones._" data-name="Como pequeñas redes de actores que apoyan las novedades sobre la base de expectativas y visiones. 
 
 
 
 
-" transform="translate(1021.802 8490.107)" fill="#444242" font-size="16" font-family="OpenSans, Open Sans"><tspan x="18.167" y="17">Como pequeñas redes de </tspan><tspan x="27.89" y="39">actores que apoyan las </tspan><tspan x="9.839" y="61">novedades sobre la base de </tspan><tspan x="27.265" y="83">expectativas y visiones. </tspan><tspan x="113.773" y="105"></tspan></text>
+" transform="translate(1027.802 8490.107)" fill="#444242" font-size="16" font-family="OpenSans, Open Sans"><tspan x="18.167" y="17">Como pequeñas redes de </tspan><tspan x="27.89" y="39">actores que apoyan las </tspan><tspan x="9.839" y="61">novedades sobre la base de </tspan><tspan x="27.265" y="83">expectativas y visiones. </tspan><tspan x="113.773" y="105"></tspan></text>
     <text id="_Espacios_de_incubación_para_tecnologías_y_o_prácticas_radicalmente_nuevas_caracterizadas_por_una_alta_incertidumbre_tecnológica_institucional_y_de_mercado._" data-name="&quot;Espacios de incubación&quot; para tecnologías y/o prácticas radicalmente 
 nuevas caracterizadas por una alta incertidumbre tecnológica, 
 institucional y de mercado. 
@@ -117,35 +119,45 @@ institucional y de mercado.
 
 
 
-" transform="translate(463.608 8450.709)" fill="#444242" font-size="16" font-family="OpenSans, Open Sans"><tspan x="1.991" y="17">&quot;Espacios de incubación&quot; para </tspan><tspan x="22.077" y="39">tecnologías y/o prácticas </tspan><tspan x="64.698" y="61">radicalmente </tspan><tspan x="16.292" y="83">nuevas caracterizadas por </tspan><tspan x="28.347" y="105">una alta incertidumbre </tspan><tspan x="69.429" y="127">tecnológica, </tspan><tspan x="13.421" y="149">institucional y de mercado. </tspan><tspan x="113.773" y="171"></tspan><tspan x="113.773" y="193"></tspan></text>
+" transform="translate(469.608 8450.709)" fill="#444242" font-size="16" font-family="OpenSans, Open Sans"><tspan x="1.991" y="17">&quot;Espacios de incubación&quot; para </tspan><tspan x="22.077" y="39">tecnologías y/o prácticas </tspan><tspan x="64.698" y="61">radicalmente </tspan><tspan x="16.292" y="83">nuevas caracterizadas por </tspan><tspan x="28.347" y="105">una alta incertidumbre </tspan><tspan x="69.429" y="127">tecnológica, </tspan><tspan x="13.421" y="149">institucional y de mercado. </tspan><tspan x="113.773" y="171"></tspan><tspan x="113.773" y="193"></tspan></text>
     <text id="La_capacidad_para_las_tecnologías_y_prácticas_emergentes_de_desafiar_y_sustituir_un_régimen_e_inducir_transiciones._" data-name="La capacidad para las tecnologías y prácticas emergentes de desafiar y sustituir un régimen e inducir transiciones.
 
 
 
 
-" transform="translate(190.287 8470.429)" fill="#444242" font-size="16" font-family="OpenSans, Open Sans"><tspan x="33.886" y="17">La capacidad para las </tspan><tspan x="29.847" y="39">tecnologías y prácticas </tspan><tspan x="19.417" y="61">emergentes de desafiar y </tspan><tspan x="3.894" y="83">sustituir un régimen e inducir </tspan><tspan x="66.476" y="105">transiciones.</tspan><tspan x="113.773" y="127"></tspan><tspan x="113.773" y="149"></tspan><tspan x="113.773" y="171"></tspan></text>
+" transform="translate(196.287 8470.429)" fill="#444242" font-size="16" font-family="OpenSans, Open Sans"><tspan x="33.886" y="17">La capacidad para las </tspan><tspan x="29.847" y="39">tecnologías y prácticas </tspan><tspan x="19.417" y="61">emergentes de desafiar y </tspan><tspan x="3.894" y="83">sustituir un régimen e inducir </tspan><tspan x="66.476" y="105">transiciones.</tspan><tspan x="113.773" y="127"></tspan><tspan x="113.773" y="149"></tspan><tspan x="113.773" y="171"></tspan></text>
+    <text id="Cuando_los_nichos_adquieren_suficiente_impulso_para_que_estas_configuraciones_relativamente_flexibles_se_institucionalicen._" data-name="Cuando los nichos adquieren suficiente impulso para que estas configuraciones relativamente flexibles se institucionalicen.
+
+
+
+
+" transform="translate(200.443 8790.1)" fill="#444242" font-size="16" font-family="OpenSans, Open Sans"><tspan x="5.175" y="17">Cuando los nichos adquieren </tspan><tspan x="10.218" y="39">suficiente impulso para que </tspan><tspan x="33.128" y="61">estas configuraciones </tspan><tspan x="18.96" y="83">relativamente flexibles se </tspan><tspan x="51.034" y="105">institucionalicen.</tspan><tspan x="113.773" y="127"></tspan><tspan x="113.773" y="149"></tspan></text>
     <text id="las_innovaciones_radicales_contra_la_selección_del_mercado_y_las_presiones_institucionales_de_un_régimen_y_permiten_a_los_actores_conocer_estas_novedades_y_sus_usos_a_través_de_la_experimentación_Coenen_Raven_Verbong_2010_Geels_2002_._" data-name="las innovaciones radicales contra la selección del mercado y las presiones institucionales de un régimen y permiten a los actores conocer estas novedades y sus usos a través de la 
-experimentación(Coenen, Raven, &amp; Verbong, 2010; Geels, 2002). 
+experimentación (Coenen, Raven, &amp; Verbong, 2010; Geels, 2002). 
 
 
 
 
-" transform="translate(737.332 8407.709)" fill="#444242" font-size="16" font-family="OpenSans, Open Sans"><tspan x="21.018" y="17">las innovaciones radicales </tspan><tspan x="0.025" y="39">contra la selección del mercado </tspan><tspan x="6.92" y="61">y las presiones institucionales </tspan><tspan x="1.525" y="83">de un régimen y permiten a los </tspan><tspan x="36.721" y="105">actores conocer estas </tspan><tspan x="5.264" y="127">novedades y sus usos a través </tspan><tspan x="99.76" y="149">de la </tspan><tspan x="21.65" y="171">experimentación(Coenen, </tspan><tspan x="2.256" y="193">Raven, &amp; Verbong, 2010; Geels, </tspan><tspan x="94.908" y="215">2002). </tspan><tspan x="117.701" y="237"></tspan></text>
+" transform="translate(743.332 8407.709)" fill="#444242" font-size="16" font-family="OpenSans, Open Sans"><tspan x="21.018" y="17">las innovaciones radicales </tspan><tspan x="0.025" y="39">contra la selección del mercado </tspan><tspan x="6.92" y="61">y las presiones institucionales </tspan><tspan x="1.525" y="83">de un régimen y permiten a los </tspan><tspan x="36.721" y="105">actores conocer estas </tspan><tspan x="5.264" y="127">novedades y sus usos a través </tspan><tspan x="99.76" y="149">de la </tspan><tspan x="19.572" y="171">experimentación (Coenen, </tspan><tspan x="2.256" y="193">Raven, &amp; Verbong, 2010; Geels, </tspan><tspan x="94.908" y="215">2002). </tspan><tspan x="117.701" y="237"></tspan></text>
     <text id="Pueden_definirse_como" data-name="Pueden
-definirse como" transform="translate(1135.575 8319.433)" fill="#444242" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-34.722" y="0">Pueden</tspan><tspan x="-68.103" y="21.6">definirse como</tspan></text>
+definirse como" transform="translate(1141.575 8319.433)" fill="#444242" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-36.576" y="0">Pueden</tspan><tspan x="-71.154" y="21.6">definirse como</tspan></text>
     <text id="Concebidos_como" data-name="Concebidos 
-como" transform="translate(577.369 8319.433)" fill="#444242" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-56.259" y="0">Concebidos </tspan><tspan x="-25.686" y="21.6">como</tspan></text>
-    <text id="Protegen" transform="translate(855.319 8319.433)" fill="#444242" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-42.309" y="0">Protegen</tspan></text>
-    <text id="Crean" transform="translate(299.729 8319.433)" fill="#444242" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-26.946" y="0">Crean</tspan></text>
-    <g id="Grupo_434" data-name="Grupo 434" transform="translate(-6)">
+como" transform="translate(583.369 8319.433)" fill="#444242" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-57.897" y="0">Concebidos </tspan><tspan x="-26.541" y="21.6">como</tspan></text>
+    <text id="Protegen" transform="translate(861.319 8319.433)" fill="#444242" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-43.83" y="0">Protegen</tspan></text>
+    <text id="Crean" transform="translate(305.729 8319.433)" fill="#444242" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-27.711" y="0">Crean</tspan></text>
+    <g id="Grupo_433" data-name="Grupo 433">
+      <circle id="Elipse_53" data-name="Elipse 53" cx="7.882" cy="7.882" r="7.882" transform="translate(499.701 8191.331)" fill="#db9600"/>
+      <path id="Trazado_430" data-name="Trazado 430" d="M507.582,8208.1a8.888,8.888,0,1,1,8.888-8.888A8.9,8.9,0,0,1,507.582,8208.1Zm0-15.763a6.875,6.875,0,1,0,6.876,6.875A6.883,6.883,0,0,0,507.582,8192.337Z" fill="#414651"/>
+    </g>
+    <g id="Grupo_434" data-name="Grupo 434">
       <circle id="Elipse_54" data-name="Elipse 54" cx="7.882" cy="7.882" r="7.882" transform="translate(575.499 8237.996)" fill="#db9600"/>
       <path id="Trazado_431" data-name="Trazado 431" d="M583.381,8254.765a8.887,8.887,0,1,1,8.888-8.887A8.9,8.9,0,0,1,583.381,8254.765Zm0-15.763a6.875,6.875,0,1,0,6.875,6.876A6.884,6.884,0,0,0,583.381,8239Z" fill="#414651"/>
     </g>
-    <g id="Grupo_435" data-name="Grupo 435" transform="translate(-6)">
+    <g id="Grupo_435" data-name="Grupo 435">
       <circle id="Elipse_55" data-name="Elipse 55" cx="7.882" cy="7.882" r="7.882" transform="translate(853.438 8237.996)" fill="#db9600"/>
       <path id="Trazado_432" data-name="Trazado 432" d="M861.319,8254.765a8.887,8.887,0,1,1,8.888-8.887A8.9,8.9,0,0,1,861.319,8254.765Zm0-15.763a6.875,6.875,0,1,0,6.876,6.876A6.883,6.883,0,0,0,861.319,8239Z" fill="#414651"/>
     </g>
-    <g id="Grupo_610" data-name="Grupo 610" transform="translate(-6)">
+    <g id="Grupo_610" data-name="Grupo 610">
       <g id="Grupo_441" data-name="Grupo 441">
         <g id="Grupo_440" data-name="Grupo 440">
           <g id="Grupo_439" data-name="Grupo 439">
@@ -607,14 +619,22 @@ como" transform="translate(577.369 8319.433)" fill="#444242" font-size="18" font
         </g>
       </g>
     </g>
-    <text id="LOS_NICHOS" data-name="LOS NICHOS" transform="translate(719.887 8223.085)" fill="#4f5460" font-size="66.876" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-212.932" y="0">LOS NICHOS</tspan></text>
-    <path id="Trazado_552" data-name="Trazado 552" d="M493.695,8199.212H306.927v93.333" transform="translate(-6)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
-    <line id="Línea_20" data-name="Línea 20" y2="37.78" transform="translate(577.409 8256.301)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
-    <line id="Línea_21" data-name="Línea 21" y2="37.78" transform="translate(300.927 8348.567)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
-    <line id="Línea_22" data-name="Línea 22" y2="37.78" transform="translate(577.662 8348.567)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
-    <line id="Línea_23" data-name="Línea 23" y2="61.648" transform="translate(855.033 8324.699)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
-    <line id="Línea_24" data-name="Línea 24" y2="40.225" transform="translate(1132.685 8346.122)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
-    <line id="Línea_27" data-name="Línea 27" y2="37.78" transform="translate(855.033 8256.301)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
-    <path id="Trazado_554" data-name="Trazado 554" d="M961.781,8199.212h176.9v93.333" transform="translate(-6)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
+    <text id="LOS_NICHOS" data-name="LOS NICHOS" transform="translate(725.887 8223.085)" fill="#4f5460" font-size="66.876" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-217.881" y="0">LOS NICHOS</tspan></text>
+    <path id="Trazado_552" data-name="Trazado 552" d="M493.695,8199.212H306.927v93.333" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
+    <line id="Línea_20" data-name="Línea 20" y2="37.78" transform="translate(583.409 8256.301)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
+    <line id="Línea_21" data-name="Línea 21" y2="37.78" transform="translate(306.927 8348.567)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
+    <line id="Línea_22" data-name="Línea 22" y2="37.78" transform="translate(583.662 8348.567)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
+    <line id="Línea_23" data-name="Línea 23" y2="61.648" transform="translate(861.033 8324.699)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
+    <line id="Línea_24" data-name="Línea 24" y2="40.225" transform="translate(1138.685 8346.122)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
+    <text id="Cuando_los_nichos" data-name="Cuando los nichos" transform="translate(306.927 8723.905)" fill="#444242" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-86.238" y="0">Cuando los nichos</tspan></text>
+    <line id="Línea_25" data-name="Línea 25" y2="36.781" transform="translate(306.926 8667.502)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
+    <line id="Línea_26" data-name="Línea 26" y2="36.781" transform="translate(306.926 8730.599)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
+    <line id="Línea_27" data-name="Línea 27" y2="37.78" transform="translate(861.033 8256.301)" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
+    <g id="Grupo_611" data-name="Grupo 611">
+      <circle id="Elipse_57" data-name="Elipse 57" cx="7.882" cy="7.882" r="7.882" transform="translate(941.388 8191.331)" fill="#db9600"/>
+      <path id="Trazado_553" data-name="Trazado 553" d="M949.27,8208.1a8.888,8.888,0,1,1,8.888-8.888A8.9,8.9,0,0,1,949.27,8208.1Zm0-15.763a6.875,6.875,0,1,0,6.875,6.875A6.884,6.884,0,0,0,949.27,8192.337Z" fill="#414651"/>
+    </g>
+    <path id="Trazado_554" data-name="Trazado 554" d="M961.781,8199.212h176.9v93.333" fill="none" stroke="#414651" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="12"/>
+    <path id="Trazado_561" data-name="Trazado 561" d="M853.617,8887.874H814.84v2.041h38.777a2.041,2.041,0,0,0,2.041-2.041v-2.041A2.041,2.041,0,0,1,853.617,8887.874Z" fill="#e6e6e6"/>
   </g>
 </svg>
